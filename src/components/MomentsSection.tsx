@@ -49,7 +49,7 @@ export default function MomentsSection() {
             className="font-display leading-none text-racing-dark-mid"
             style={{ fontSize: 'clamp(2.3rem, 11vw, 4rem)' }}
           >
-            Tres desejos meus pra você, sem pressa
+            Quatro desejos meus pra você, sem pressa
           </h2>
         </motion.div>
 
